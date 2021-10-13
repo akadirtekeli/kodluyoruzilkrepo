@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Veri Bilimi Patikası kapsamında açtığım ilk repo.
 
-![Image](https://drive.google.com/file/d/1mBxNw2bTei1BrGNN2XldofRETLGBgxmH/view?usp=sharing)
+![kodluyoruz-git](https://user-images.githubusercontent.com/65442627/137142384-eba9d09c-5b45-4bcf-b063-53397cf23f7d.png)
 
 ## Installation
 
